@@ -17,4 +17,6 @@ Articles to learn System Design Principles
 13. [Idempotency in API](https://www.youtube.com/watch?v=XAccGbtl3Z8)
 14. [Idempotency in API - Payment Example](https://www.youtube.com/watch?v=m6DtqSb1BDM)
 15. [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
-16 [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
+16. [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
+17. [Design a ditributed cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
+18.
