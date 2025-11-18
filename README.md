@@ -25,7 +25,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ## Dev Ops
 - [Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
-- [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
+- [Active-Passive vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
 - [Rolling Deployment](https://www.youtube.com/watch?v=9kjUG_yvVqM)
 - [Blue-Green Deployment](https://www.youtube.com/watch?v=W6HANd8c9t4)
 - [Canary Deployment](https://www.youtube.com/watch?v=nnseeKxovaM)
