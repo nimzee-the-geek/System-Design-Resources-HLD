@@ -1,27 +1,19 @@
 # System-Design-Resources - HLD
 This repository contains free resources to learn System Design concepts and prepare for interviews.
 ## ⚙️ Core Concepts
-1. [tRPC, gRPC, GraphQL, or REST: when to use what?](https://www.youtube.com/watch?v=veAb1fSp1Lk)
-2. [Load Balancer Basics](https://www.youtube.com/watch?v=mswjnBHHd1M)
-3. [Forward vs Reverse Proxy](https://www.youtube.com/watch?v=HrG0MHkSsCA)
-4. [Availability](https://www.youtube.com/watch?v=WC7kpQPGPp8)
-5. 
-6. 
-7. [Bloom Filter](https://www.youtube.com/watch?v=bgzUdBVr5tE)
-8. [12-Factor App](https://www.youtube.com/watch?v=94PxlbuizCU)
-9. [Rate Limiting Algorithms](https://www.youtube.com/watch?v=mQCJJqUfn9Y)
-10. [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=20tpk8A_xa0)
-11. [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
-12. [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
-13. [Idempotency in API](https://www.youtube.com/watch?v=XAccGbtl3Z8)
-14. [Idempotency in API - Payment Example](https://www.youtube.com/watch?v=m6DtqSb1BDM)
-15. [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
-16. 
-17. [Design a ditributed cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
-18.  
-20. [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
-21. [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
-
+- [tRPC, gRPC, GraphQL, or REST: when to use what?](https://www.youtube.com/watch?v=veAb1fSp1Lk)
+- [Load Balancer Basics](https://www.youtube.com/watch?v=mswjnBHHd1M)
+- [Forward vs Reverse Proxy](https://www.youtube.com/watch?v=HrG0MHkSsCA)
+- [Availability](https://www.youtube.com/watch?v=WC7kpQPGPp8)
+- [Bloom Filter](https://www.youtube.com/watch?v=bgzUdBVr5tE)
+- [Rate Limiting Algorithms](https://www.youtube.com/watch?v=mQCJJqUfn9Y)
+- [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=20tpk8A_xa0)
+- [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
+- [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
+- [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
+- [Design a ditributed cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
+- [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
+- [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
 
 ## 🔌 API Fundamentals
 - [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
