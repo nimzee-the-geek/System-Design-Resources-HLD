@@ -11,7 +11,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
 - [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
-- [Design a ditributed cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
+- [Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
 - [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
 - [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
 
