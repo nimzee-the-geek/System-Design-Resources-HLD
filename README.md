@@ -1,5 +1,5 @@
-# System-Design-Resources
-Consists of HLD and LLD resources
+# System-Design-Resources - HLD
+This repository contains free resources to learn System Design concepts and prepare for interviews.
 ## ⚙️ Core Concepts
 1. [tRPC, gRPC, GraphQL, or REST: when to use what?](https://www.youtube.com/watch?v=veAb1fSp1Lk)
 2. [Load Balancer Basics](https://www.youtube.com/watch?v=mswjnBHHd1M)
