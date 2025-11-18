@@ -22,11 +22,13 @@ This repository contains free resources to learn System Design concepts and prep
 - [Thundering Herd Problem](https://www.youtube.com/watch?v=8sTuCPh3s0s)
 - [How PayPal Beat the Thundering Herd Problem and Fixed Their Architecture](https://www.youtube.com/watch?v=pFBCgFzS2W8)
 
-## Dev Ops
-- [Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
-- [Active-Passive vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
-- [Rolling Deployment](https://www.youtube.com/watch?v=9kjUG_yvVqM)
-- [Blue-Green Deployment](https://www.youtube.com/watch?v=W6HANd8c9t4)
+![DevOps](assets/devops-icon.svg)
+
+## 🔧 Dev Ops
+- [Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)  
+- [Active-Passive vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)  
+- [Rolling Deployment](https://www.youtube.com/watch?v=9kjUG_yvVqM)  
+- [Blue-Green Deployment](https://www.youtube.com/watch?v=W6HANd8c9t4)  
 - [Canary Deployment](https://www.youtube.com/watch?v=nnseeKxovaM)
 
 ## 🧩 Distributed System and Microservices
