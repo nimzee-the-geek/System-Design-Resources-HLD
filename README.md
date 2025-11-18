@@ -5,8 +5,8 @@ This repository contains free resources to learn System Design concepts and prep
 2. [Load Balancer Basics](https://www.youtube.com/watch?v=mswjnBHHd1M)
 3. [Forward vs Reverse Proxy](https://www.youtube.com/watch?v=HrG0MHkSsCA)
 4. [Availability](https://www.youtube.com/watch?v=WC7kpQPGPp8)
-5. [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
-6. [Short Polling vs Long Polling vs WebSockets](https://www.youtube.com/watch?v=ZBM28ZPlin8)
+5. 
+6. 
 7. [Bloom Filter](https://www.youtube.com/watch?v=bgzUdBVr5tE)
 8. [12-Factor App](https://www.youtube.com/watch?v=94PxlbuizCU)
 9. [Rate Limiting Algorithms](https://www.youtube.com/watch?v=mQCJJqUfn9Y)
@@ -16,12 +16,25 @@ This repository contains free resources to learn System Design concepts and prep
 13. [Idempotency in API](https://www.youtube.com/watch?v=XAccGbtl3Z8)
 14. [Idempotency in API - Payment Example](https://www.youtube.com/watch?v=m6DtqSb1BDM)
 15. [Distributed Messaging Queue](https://www.youtube.com/watch?v=oVZtzZVe9Dg)
-16. [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
+16. 
 17. [Design a ditributed cache](https://www.youtube.com/watch?v=iuqZvajTOyA&t=2s)
-18. [Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg) 
+18.  
 20. [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
 21. [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
-22. 
+
+
+## 🔌 API Fundamentals
+- [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
+- [Short Polling vs Long Polling vs WebSockets](https://www.youtube.com/watch?v=ZBM28ZPlin8)
+- [Idempotency in API](https://www.youtube.com/watch?v=XAccGbtl3Z8)
+- [Idempotency in API - Payment Example](https://www.youtube.com/watch?v=m6DtqSb1BDM)
+
+## Dev Ops
+- [Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
+- [Active-Passivs vs Active-Active cluster](https://www.youtube.com/watch?v=d-Bfi5qywFo)
+
+## Microservices
+- [12-Factor App](https://www.youtube.com/watch?v=94PxlbuizCU)
 
 ## 💻 System Design Interview Problems
 ### Easy
