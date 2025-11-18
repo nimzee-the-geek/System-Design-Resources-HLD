@@ -11,8 +11,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Stream vs Batch Processing](https://www.youtube.com/watch?v=ya4298V8Mqo)
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
 - [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
-- [Consistent Hashing]
--
+- [Consistent Hashing](https://www.youtube.com/watch?v=zaRkONvyGr8)
 
 ## 🔌 API Fundamentals
 - [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
