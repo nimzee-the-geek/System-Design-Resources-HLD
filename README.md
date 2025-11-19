@@ -12,10 +12,13 @@ This repository contains free resources to learn System Design concepts and prep
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
 - [Content Delivery Network](https://www.youtube.com/watch?v=b4_6thkYZXs)
 - [Consistent Hashing](https://www.youtube.com/watch?v=zaRkONvyGr8)
+- [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
+- [Types of Databases](https://blog.algomaster.io/p/15-types-of-databases)
 
 ## 🔌 API Fundamentals
 - [API Design](https://www.youtube.com/watch?v=XvFmUE-36Kc)
 - [Short Polling vs Long Polling vs WebSockets](https://www.youtube.com/watch?v=ZBM28ZPlin8)
+- [Webhooks](https://algomaster.io/learn/system-design/webhooks)
 - [Idempotency in API](https://www.youtube.com/watch?v=XAccGbtl3Z8)
 - [Idempotency in API - Payment Example](https://www.youtube.com/watch?v=m6DtqSb1BDM)
 - [Thundering Herd Problem](https://www.youtube.com/watch?v=8sTuCPh3s0s)
@@ -34,7 +37,8 @@ This repository contains free resources to learn System Design concepts and prep
 - [Algorithms in Distributed Systems - Playlist](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT1wfRQo2xrrst2SGremT_qd)
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
 - [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
-- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Consensus Algorithms - Article](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Consensus Algorithm - Video](https://www.youtube.com/watch?v=GeGxgmPTe4c)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
