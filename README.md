@@ -239,7 +239,7 @@
 - <a href="https://www.youtube.com/@SystemDesignInterview" target="_blank" rel="noopener noreferrer">System Design Interview</a>
 - <a href="https://www.youtube.com/@sudocode" target="_blank" rel="noopener noreferrer">sudoCODE</a>
 - <a href="https://www.youtube.com/@SuccessinTech" target="_blank" rel="noopener noreferrer">Success in Tech</a>
-- <a href="(https://www.youtube.com/@piyushgargdev" target="_blank" rel="noopener noreferrer">Piyush Garg</a>
+- <a href="https://www.youtube.com/@piyushgargdev" target="_blank" rel="noopener noreferrer">Piyush Garg</a>
 
 </details>
 
