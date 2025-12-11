@@ -148,7 +148,7 @@
 <details>
 <summary><b>Open Additional Recommended Design Videos</b></summary>
 
-1. <a href="https://www.youtube.com/watch?v=dN_11nBcv_A" target="_blank" rel="noopener noreferrer">Change Data Capture</a>
+1. <a href="https://www.youtube.com/watch?v=-M8v4tXQ7Hs" target="_blank" rel="noopener noreferrer">Noisy Neighbour Problem</a>
 
 </details>
 
