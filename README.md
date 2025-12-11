@@ -142,18 +142,6 @@
 
 ---
 
-## 🎥 Additional Recommended Design Videos 
-<div id="additional-videos"></div>
-
-<details>
-<summary><b>Open Additional Recommended Design Videos</b></summary>
-
-1. <a href="https://www.youtube.com/watch?v=-M8v4tXQ7Hs" target="_blank" rel="noopener noreferrer">Noisy Neighbour Problem</a>
-
-</details>
-
----
-
 ## 💻 System Design Interview Problems
 <div id="system-design-interview-problems"></div>
 
@@ -222,6 +210,18 @@
 - <a href="https://www.youtube.com/watch?v=v7x75aN9liM" target="_blank" rel="noopener noreferrer">Design Distributed Locking Service</a>
 - <a href="https://systemdesign.one/slack-architecture/" target="_blank" rel="noopener noreferrer">Design Slack</a>
 - <a href="https://systemdesign.one/live-comment-system-design/" target="_blank" rel="noopener noreferrer">Design Live Comments</a>
+
+</details>
+
+---
+
+## 🎥 Additional Recommended Design Videos 
+<div id="additional-videos"></div>
+
+<details>
+<summary><b>Open Additional Recommended Design Videos</b></summary>
+
+1. <a href="https://www.youtube.com/watch?v=-M8v4tXQ7Hs" target="_blank" rel="noopener noreferrer">Noisy Neighbour Problem</a>
 
 </details>
 
