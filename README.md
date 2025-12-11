@@ -8,17 +8,18 @@
 2. [🔌 API Fundamentals](#api-fundamentals)
 3. [🔧 DevOps](#dev-ops)
 4. [🧩 Distributed Systems & Microservices](#distributed-system--microservices)
-5. [💻 System Design Interview Problems](#system-design-interview-problems)
+5. [🌐 Networking Fundamentals](#networking-fundamentals)
+6. [🔄 Asynchronous Communication](#asynchronous-communication)
+7. [💻 System Design Interview Problems](#system-design-interview-problems)
    - [Easy](#easy)
    - [Medium](#medium)
    - [Hard](#hard)
-6. [📚 Books](#books)
-7. [🌐 Networking Fundamentals](#networking-fundamentals)
-8. [🔄 Asynchronous Communication](#asynchronous-communication)
-9. [📺 YouTube Channels](#youtube-channels)
-10. [📜 Must-Read Engineering Articles](#must-read-engineering-articles)
-11. [🗞️ Must-Read Distributed Systems Papers](#must-read-distributed-systems-papers)
-12. [⭐ Contribute / Star / Share](#contribute--star--share)
+8. [Additional Recommended Design Videos](#additional-videos)
+9. [📚 Books](#books)
+10. [📺 YouTube Channels](#youtube-channels)
+11. [📜 Must-Read Engineering Articles](#must-read-engineering-articles)
+12. [🗞️ Must-Read Distributed Systems Papers](#must-read-distributed-systems-papers)
+
 
 ---
 
@@ -110,6 +111,49 @@
 
 ---
 
+## 🌐 Networking Fundamentals
+<div id="networking-fundamentals"></div>
+
+<details>
+<summary><b>Open Networking Fundamentals</b></summary>
+
+- <a href="https://algomaster.io/learn/system-design/osi" target="_blank" rel="noopener noreferrer">OSI Model</a>
+- <a href="https://algomaster.io/learn/system-design/ip-address" target="_blank" rel="noopener noreferrer">IP Addresses</a>
+- <a href="https://blog.algomaster.io/p/how-dns-actually-works" target="_blank" rel="noopener noreferrer">Domain Name System (DNS)</a>
+- <a href="https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained" target="_blank" rel="noopener noreferrer">Proxy vs Reverse Proxy</a>
+- <a href="https://algomaster.io/learn/system-design/http-https" target="_blank" rel="noopener noreferrer">HTTP/HTTPS</a>
+- <a href="https://algomaster.io/learn/system-design/tcp-vs-udp" target="_blank" rel="noopener noreferrer">TCP vs UDP</a>
+- <a href="https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code" target="_blank" rel="noopener noreferrer">Load Balancing</a>
+- <a href="https://algomaster.io/learn/system-design/checksums" target="_blank" rel="noopener noreferrer">Checksums</a>
+
+</details>
+
+---
+
+## 🔄 Asynchronous Communication
+<div id="asynchronous-communication"></div>
+
+<details>
+<summary><b>Open Asynchronous Communication</b></summary>
+
+1. <a href="https://www.youtube.com/watch?v=dN_11nBcv_A" target="_blank" rel="noopener noreferrer">Change Data Capture</a>
+
+</details>
+
+---
+
+## 🔄 Additional Recommended Design Videos 
+<div id="additional-videos"></div>
+
+<details>
+<summary><b>Open Additional Recommended Design Videos</b></summary>
+
+1. <a href="https://www.youtube.com/watch?v=dN_11nBcv_A" target="_blank" rel="noopener noreferrer">Change Data Capture</a>
+
+</details>
+
+---
+
 ## 💻 System Design Interview Problems
 <div id="system-design-interview-problems"></div>
 
@@ -190,37 +234,6 @@
 <summary><b>Open Books</b></summary>
 
 - <a href="https://www.amazon.in/dp/9352135245" target="_blank" rel="noopener noreferrer">Designing Data-Intensive Applications</a>
-
-</details>
-
----
-
-## 🌐 Networking Fundamentals
-<div id="networking-fundamentals"></div>
-
-<details>
-<summary><b>Open Networking Fundamentals</b></summary>
-
-- <a href="https://algomaster.io/learn/system-design/osi" target="_blank" rel="noopener noreferrer">OSI Model</a>
-- <a href="https://algomaster.io/learn/system-design/ip-address" target="_blank" rel="noopener noreferrer">IP Addresses</a>
-- <a href="https://blog.algomaster.io/p/how-dns-actually-works" target="_blank" rel="noopener noreferrer">Domain Name System (DNS)</a>
-- <a href="https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained" target="_blank" rel="noopener noreferrer">Proxy vs Reverse Proxy</a>
-- <a href="https://algomaster.io/learn/system-design/http-https" target="_blank" rel="noopener noreferrer">HTTP/HTTPS</a>
-- <a href="https://algomaster.io/learn/system-design/tcp-vs-udp" target="_blank" rel="noopener noreferrer">TCP vs UDP</a>
-- <a href="https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code" target="_blank" rel="noopener noreferrer">Load Balancing</a>
-- <a href="https://algomaster.io/learn/system-design/checksums" target="_blank" rel="noopener noreferrer">Checksums</a>
-
-</details>
-
----
-
-## 🔄 Asynchronous Communication
-<div id="asynchronous-communication"></div>
-
-<details>
-<summary><b>Open Asynchronous Communication</b></summary>
-
-1. <a href="https://www.youtube.com/watch?v=dN_11nBcv_A" target="_blank" rel="noopener noreferrer">Change Data Capture</a>
 
 </details>
 
