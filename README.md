@@ -142,7 +142,7 @@
 
 ---
 
-## 🔄 Additional Recommended Design Videos 
+## 🎥 Additional Recommended Design Videos 
 <div id="additional-videos"></div>
 
 <details>
