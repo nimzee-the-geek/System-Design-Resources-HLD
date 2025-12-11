@@ -28,6 +28,7 @@
 <details>
 <summary><b>Open Core Concepts</b> — (click to expand)</summary>
 
+- ("https://www.youtube.com/watch?v=veAb1fSp1Lk")[tRPC, gRPC, GraphQL, or REST: when to use what?]
 - <a href="https://www.youtube.com/watch?v=veAb1fSp1Lk" target="_blank" rel="noopener noreferrer">tRPC, gRPC, GraphQL, or REST: when to use what?</a>
 - <a href="https://www.youtube.com/watch?v=mswjnBHHd1M" target="_blank" rel="noopener noreferrer">Load Balancer Basics</a>
 - <a href="https://www.youtube.com/watch?v=HrG0MHkSsCA" target="_blank" rel="noopener noreferrer">Forward vs Reverse Proxy</a>
