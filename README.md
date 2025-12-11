@@ -14,7 +14,7 @@
    - [Easy](#easy)
    - [Medium](#medium)
    - [Hard](#hard)
-8. [Additional Recommended Design Videos](#additional-videos)
+8. [🎥 Additional Recommended Design Videos](#additional-videos)
 9. [📚 Books](#books)
 10. [📺 YouTube Channels](#youtube-channels)
 11. [📜 Must-Read Engineering Articles](#must-read-engineering-articles)
