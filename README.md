@@ -45,7 +45,7 @@
 - <a href="https://algomaster.io/learn/system-design/caching-strategies" target="_blank" rel="noopener noreferrer">Caching Strategies</a>
 - <a href="https://algomaster.io/learn/system-design/cache-eviction-policies" target="_blank" rel="noopener noreferrer">Cache Eviction Policies</a>
 - <a href="https://www.youtube.com/watch?v=WWnR4xptSRk">CORS</a>
-- <a href="https://www.youtube.com/watch?v=WWnR4xptSRk">How SSL works</a>
+- <a href="https://www.youtube.com/watch?v=eWdPWSBKxso">How SSL works</a>
 
 </details>
 
